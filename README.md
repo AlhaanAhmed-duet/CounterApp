@@ -1,0 +1,1 @@
+This is a practice swing app built using Java and the code is automatically being scripted by NetBeans IDE while dragging and dropping swing elements. Only the action performed during the counter is performed by me. That's it. I am not an expert in Java but somehow familiar with the basics including Object Oriented Programming Concepts and JDBC.
